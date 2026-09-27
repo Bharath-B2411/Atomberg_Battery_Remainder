@@ -12,7 +12,6 @@ The system fulfills three primary goals:
 - ✔ Identify inactive/stale locks
 - ✔ Send automated reminders
 - ✔ Measure user engagement (CTR analytics),
-
 ---
 
 ## 🎯 Objective
